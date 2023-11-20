@@ -1,0 +1,22 @@
+#  VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# Mac
+.DS_Store/
+
+# JS
+node_modules/
+
+# Production
+bin/
+build/
+dist/
+coverage/
+
+*.*
+!*.css
+!*.scss
+!*.less
